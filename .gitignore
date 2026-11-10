@@ -17,8 +17,7 @@ dist/
 *.egg-info/
 
 # 全部业务数据、字典、人工修正、备份与计算结果
-# 目录规则不影响根目录 clean.py、model.py 等脚本
-/clean/
+# 目录规则不影响根目录 model.py 等脚本
 /data/
 /model/
 /output/
